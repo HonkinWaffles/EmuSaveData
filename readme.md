@@ -25,3 +25,10 @@ The script makes some bold assumptions and is tailored for my specific setup. Th
 1. In Steam edit the launch options to include `; /bin/bash /dome/deck/Documents/EmuSaveData/SaveSyncScript.sh EMULATOR_NAME` (You must include the `;`)
 1. Launch the Emulator and check the logs for `rsync` status
 
+
+---
+
+### ToDo:
+1. Add error correction
+1. Add more emulators 
+1. Add a VPN connection script for remote updating
