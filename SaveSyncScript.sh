@@ -1,12 +1,15 @@
 #/bin/bash
-#Script to sync save data with local server
 
-## Note: There is no error correction
+# Script to sync save data with local NAS
+# To update this to your specifications, check and make sure that 
 
+## Warning!! There is no error correction
 
+## Assumes that the folder exists in Documents make sure to create it
 LOG=~/Documents/EmuSaveData/log.txt
 EMULATOR=$1
 
+# Add the path to your save data on the NAS
 NAS=/mnt/storage/Games/Save\ Data
 
 function cemu {
