@@ -9,6 +9,7 @@ The script can be run every time you open and close the emulator to create a sea
 ## Warning
 The script makes some bold assumptions and is tailored for my specific setup. This means you MUST edit the script to suit your needs.
 
+---
 
 ### Instructions
 
