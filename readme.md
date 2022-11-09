@@ -1,5 +1,7 @@
 ### EmuSaveData
 
+Note: Emudeck has not baked this feature into the product. 
+
 This script syncs some Emulator save data between the Steam Deck and a local NAS. Not only does this provide a good backup for your important save data but allows for save data sync between the Steam deck and other devices (Such as desktop or even mobile).
 
 The script can be run every time you open and close the emulator to create a seamless experience between the Steam Deck and other devices 
